@@ -1,5 +1,5 @@
 # DeepFlow
-DeepFlow is an easy to use Deep Learning library optimized to simplicity.
+DeepFlow aims to provide an easy to use, simple, and powerfull deep learning library. Utilising many new concepts and algorithms DeepFlow is the perfect place to go. Deepflow is constantly being updated and improved in oreder to stay ahead.
 
 ## Collaborators
 - [@GRomeroNaranjo](https://github.com/GRomeroNaranjo/) - Main AI developer
