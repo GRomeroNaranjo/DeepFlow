@@ -31,16 +31,6 @@ class Relu:
         self.input_gradient[self.inputs <= 0] = 0
         return self.input_gradient
     
-class Sigmoid:
-    def forward(self, inputs):
-        self.input = inputs
-        self.output = 1 / (1 + np.exp(-self.input))
-        return self.output
-    
-    def backward(self, output_gradient, learning_rate):
-        self.output_gradient = output_gradient
-        self.input_gradient = output_gradient * (1 - output_gradient)
-        return self.input_gradient
     
 class Softmax:
     def forward(self, inputs):
