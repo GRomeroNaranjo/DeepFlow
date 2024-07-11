@@ -4,5 +4,5 @@ DeepFlow aims to provide an easy to use, simple, and powerfull deep learning lib
 
 ## Collaborators
 - [@GRomeroNaranjo](https://github.com/GRomeroNaranjo/) - Main AI developer
-- [@UrName51](https://github.com/UrName51?tab=overview&from=2024-07-01&to=2024-07-09) - Main frontend developer.
+
 
