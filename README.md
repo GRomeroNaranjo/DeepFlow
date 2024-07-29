@@ -11,5 +11,4 @@ The accumulation of these factors evidently articulate the strength and potentia
 
 ## Collaborators
 - [@GRomeroNaranjo](https://github.com/GRomeroNaranjo/) - AI developer, ML Specialist, and backend dev
-- [@UrName51](https://github.com/UrName51/) - Frontend Developer, Web Specialist, backend dev
-and Website designer
+- [@UrName51](https://github.com/UrName51/) - Frontend Developer, Web Specialist, backend dev, and Website designer
