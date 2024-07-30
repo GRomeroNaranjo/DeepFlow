@@ -1,5 +1,5 @@
 # DeepFlow
-DeepFlow is an easy to use Deep Learning library optimized to simplicity. Information: (DeepFlow is still under construction and is yet not available for the public through pypi. Currently implementing Convolutional Neural Networks, Recurrent Neural Networks, Deep Dreaming, and Pretrained Language Models), 
+DeepFlow is an easy to use Deep Learning library optimized to simplicity. Information: (DeepFlow is still under construction and is yet not available for the public through pypi. Currently implementing Convolutional Neural Networks, Recurrent Neural Networks, Deep Dreaming, Pretrained Language Models and LSTM Neural Networks), 
 
 On Mnist the DeepFlow feed forward neural network is reaching approximately:
 - 0.92 after 1 epoch.
